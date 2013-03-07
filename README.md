@@ -31,3 +31,9 @@ If you have any problem :
 
 1. Go to System > Magento Connect > Magento Connect Manager
 2. Get the key from http://www.magentocommerce.com/magento-connect/mailjet-4962.html or use direct package upload
+
+
+License
+-------
+
+magento-mailjet-extension is licensed under the MIT License. (See [LICENSE](LICENSE.md))
