@@ -3,7 +3,7 @@
     <modules>
         <MJ_Customsmtp>
             <active>true</active>
-            <codePool>local</codePool>
+            <codePool>community</codePool>
         </MJ_Customsmtp>
     </modules>
 </config>
